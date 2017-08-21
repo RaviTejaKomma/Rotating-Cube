@@ -1,0 +1,21 @@
+{
+  "name": "my_project",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.1.0",
+    "purescript-console": "^3.0.0",
+    "purescript-canvas": "^3.1.0",
+    "purescript-refs": "^3.0.0",
+    "purescript-dom": "^4.8.1",
+    "purescript-signal": "^9.0.0",
+    "purescript-control": "^3.3.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0"
+  }
+}
